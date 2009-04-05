@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2601
+
+I like to use vim in the terminal rather than with GUI front-end. So this plugin is only used in terminal and all the GUI settings are the same as the cterm.
+
+BTW:Let the terminal background transparent. You will feel more comfortable.
+
+Screenshots：http://wargrey.yo2.cn/2009/04/05/25586/
+(Maybe you should save them to local to view the full version)
